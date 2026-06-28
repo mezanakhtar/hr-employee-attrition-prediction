@@ -2,6 +2,11 @@
 
 A Machine Learning web application that predicts whether an employee is likely to leave the company based on HR-related features. The application is built using **Python, Scikit-Learn, and Streamlit**, providing HR professionals with an easy-to-use dashboard for employee attrition prediction.
 
+## 🌐 Live Demo
+
+Try the application here:
+
+https://hr-employee-attrition-prediction-b7xowx9ktl23mmpndsuczp.streamlit.app/
 ---
 
 ## 🚀 Project Overview
