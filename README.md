@@ -1,3 +1,5 @@
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://hr-employee-attrition-prediction-b7xowx9ktl23mmpndsuczp.streamlit.app/)
+
 # 🏢 HR Employee Attrition Prediction System
 
 A Machine Learning web application that predicts whether an employee is likely to leave the company based on HR-related features. The application is built using **Python, Scikit-Learn, and Streamlit**, providing HR professionals with an easy-to-use dashboard for employee attrition prediction.
